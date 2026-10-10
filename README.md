@@ -6,7 +6,7 @@ Desarrollador Backend
 </div>
 🚀 Sobre mí
 <table> <tr> <td width="60%" valign="top">
-TU_NOMBRE, aquí — estudiante de último año de Ingeniería enfocado en desarrollo backend.
+Jaime Johnson, aquí — estudiante de último año de Ingeniería enfocado en desarrollo backend.
 
 Disfruto construir APIs escalables y listas para producción, mejorando continuamente mi comprensión de sistemas backend del mundo real.
 
